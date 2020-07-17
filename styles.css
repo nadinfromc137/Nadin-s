@@ -1,0 +1,19 @@
+
+  body {
+    background-color: #defcf9;
+  }
+  hr {
+    width:10%;
+    border-style: none;
+    text-align: center;
+   border-top:7px dotted #3d84a8;
+  }
+
+  h1 {
+    color: #6639a6;
+  }
+
+  h3{
+    font: small-caps bold 24px/1 sans-serif;
+    color: #6639a6;
+  }
